@@ -1,3 +1,3 @@
 # Github-Python-Exercises
-Some Python exercises
+Some Python exercises.
 Im learning Python.
